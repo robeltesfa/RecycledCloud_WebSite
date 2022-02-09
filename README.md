@@ -1,7 +1,5 @@
 # ----------- RecycledCloud_WebSite\*\* ----------------------
 
-![Recycled Cloud logo](/assets/logo_01.png)
-
 ## ** File Sizes **
 
 - ### Assets == 142 KB
