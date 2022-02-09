@@ -1,6 +1,6 @@
 # ----------- RecycledCloud_WebSite\*\* ----------------------
 
-![Recycled Cloud logo](./assets/logo_01.png)
+![Recycled Cloud logo](/assets/logo_01.png)
 
 ## ** File Sizes **
 
