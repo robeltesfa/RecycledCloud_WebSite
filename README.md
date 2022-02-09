@@ -1,5 +1,6 @@
-----------------# **RecycledCloud_WebSite**----------------------
-![Recycled Cloud logo](Recycledcloud-02.svg)
+# **----------- RecycledCloud_WebSite **----------------------
+
+![Recycled Cloud logo](file:///C:/Users/Robel%20Tesfamariam/e-durable/RecycledCloud/RecycledCloud_WebSite/assets/Recycledcloud-02.svg)
 
 ## ** File Sizes **
 
@@ -7,4 +8,4 @@
 - ### CSS File == 129 KB
 - ### Third item == 52.44 KB
 
-  Total File Size == 324 KB
+  # Total File Size == 324 KB
