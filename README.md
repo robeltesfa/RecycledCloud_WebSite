@@ -1,6 +1,6 @@
-# **----------- RecycledCloud_WebSite **----------------------
+# ----------- RecycledCloud_WebSite\*\* ----------------------
 
-![Recycled Cloud logo](file:///C:/Users/Robel%20Tesfamariam/e-durable/RecycledCloud/RecycledCloud_WebSite/assets/Recycledcloud-02.svg)
+![Recycled Cloud logo](./assets/logo_01.png)
 
 ## ** File Sizes **
 
