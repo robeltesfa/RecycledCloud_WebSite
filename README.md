@@ -1,6 +1,6 @@
-# ----------- RecycledCloud_WebSite\*\* ----------------------
+# ----------- RecycledCloud_WebSite -----------
 
-## ** File Sizes **
+## File Sizes
 
 - ### Assets == 142 KB
 - ### CSS File == 129 KB
